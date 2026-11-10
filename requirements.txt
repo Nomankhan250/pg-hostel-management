@@ -1,0 +1,9 @@
+Django==6.1.3
+djangorestframework
+psycopg[binary]
+Pillow
+python-dotenv
+django-filter
+reportlab
+gunicorn
+whitenoise
